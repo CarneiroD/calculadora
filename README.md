@@ -1,4 +1,4 @@
-Projeto de calculadora simples para treinar HTML e CSS
+Projeto de calculadora simples para treinar HTML e CSS.
 <br>
 https://carneirod.github.io/calculadora/
 <br>
