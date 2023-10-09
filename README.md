@@ -1,6 +1,6 @@
 Projeto de calculadora simples para treinar HTML e CSS.
 <br>
-https://carneirod.github.io/calculadora/
+https://carneirod.github.io/first-calculator/
 <br>
 ![image](https://github.com/CarneiroD/calculadora/assets/104696624/7f91b6f1-86e8-4eac-9a6b-78a487e1e856)
 <br>
